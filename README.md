@@ -1,5 +1,22 @@
-### Hi there 👋
+### Hi there 👋, I am Rajdeep.
 
+## 
+I am a Computer Science graduate, currently working as a Data Scientist at [Inspektlabs](https://inspektlabs.com/). 
+ 
+My main work revolves around the usage of deep learning (particularly ConvNets) to solve computer vision problems.
+
+I have experience in: 
+- Object detection
+- Object tracking
+- Image segmentation
+- Image matting
+- Generative Modelling
+
+Proficient in Tensorflow and Pytorch, I am currently exploring ONNX.
+
+##
+
+PS: Interested in virtual photography? Here is my Flickr [profile](https://www.flickr.com/photos/192767811@N05/).
 <!--
 **rdutta1999/rdutta1999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
