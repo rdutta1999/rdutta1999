@@ -1,7 +1,7 @@
 ### Hi there 👋, I am Rajdeep.
 
 ## 
-I am a Computer Science graduate, currently working as a Data Scientist at [Inspektlabs](https://inspektlabs.com/). 
+I am a Computer Science graduate, currently pursuing a Master's degree at York University. Before this, I was a Senior Data Scientist at [Inspektlabs](https://inspektlabs.com/). 
  
 My main work revolves around the usage of deep learning (particularly ConvNets) to solve computer vision problems.
 
